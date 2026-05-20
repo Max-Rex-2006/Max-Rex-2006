@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/185792631?v=4" alt="Max Rex profile photo" width="180" />
 </p>
 
-<h1 align="center">Hi, I'm Max Rex 👋</h1>
+<h1 align="center">Hi, I'm Arko Roy Chowdhury 👋</h1>
 <p align="center">
   BTech 1st Year Student at SOA University • GFG Operations Contributor • IEEE Technical Member
 </p>
